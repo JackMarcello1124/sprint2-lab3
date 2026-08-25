@@ -2,6 +2,6 @@ package com.neueda.leap;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world, this is a change");
+        System.out.println("Jack's change");
     }
 }
